@@ -35,3 +35,11 @@ Notes I keep and update as I learn:
 - **Investigation:** pivoting between indicators, timeline building, IOC tracking, defanging
 - **Frameworks:** Cyber Kill Chain, MITRE ATT&CK, NIST incident response
 - **Tools:** KC7, Airtable (IOC and case tracking), Burp Suite, Obsidian, GitHub
+
+## Education and certifications
+
+- **Associate of Applied Science, AI Software Engineering** · Maestro College · in progress, continuing to a BS
+- **Associate in Arts, Social Sciences** · Sacramento City College · May 2014
+- **ISC2 Certified in Cybersecurity (CC)**
+- **Google IT Support Professional Certificate**
+- **KC7 Cyber Security Analyst I** · completed Oct 2026
