@@ -49,4 +49,6 @@ Escalate to a lead or on-call (don't sit on it) when I see:
 
 ## IR report sections (my standard)
 
-About & TL;DR · Case details · Summary · Starting point · Timeline · Evidence & key queries · Ruled out · Kill chain / MITRE · Recommendations · Open questions · Lessons learned
+About & TL;DR · Case details · Summary · Starting point · Timeline · Evidence & key queries · Ruled out · Kill chain / MITRE · Recommendations · Open questions · Lessons learned · Beyond the module: extra hunting (optional)
+
+**Extra hunting:** after finishing a module, I run my own queries on its open questions. Each finding gets the question, my query, what I found, and what it means. Answered questions move out of Open questions; anything still unanswered stays there.
