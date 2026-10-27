@@ -1,10 +1,10 @@
-# Cyber Analyst Portfolio
+# Blue Team Portfolio
 
 **Seagram Kern** · SF Bay Area · ISC2 Certified in Cybersecurity (CC) · [LinkedIn](https://www.linkedin.com/in/seagramkern/)
 
 ## About me
 
-I'm a security officer moving into SOC analysis. On shift I monitor CCTV, handle dispatch calls, and write a timed activity report every 30 minutes. This portfolio builds the other half of the job: investigating logs, finding what happened, and writing it up clearly. I'm also studying for an Associate of Applied Science in AI Software Engineering.
+I work in physical security, and I'm building toward a blue team role in cybersecurity. The jobs share a core: watch for anything unusual, respond fast, and document what happened. I do that on shift with CCTV monitoring, dispatch calls, and activity reports every 30 minutes. This portfolio shows the same work on the cyber side: hunting through logs, tracing attacks, and writing incident reports. I'm also studying for an Associate of Applied Science in AI Software Engineering.
 
 ## Investigations
 
