@@ -34,7 +34,10 @@ Notes I keep and update as I learn:
 - **Log analysis:** KQL (Azure Data Explorer) across email, DNS, network flow, proxy, authentication, file, and process logs
 - **Investigation:** pivoting between indicators, timeline building, IOC tracking, defanging
 - **Frameworks:** Cyber Kill Chain, MITRE ATT&CK, NIST incident response
+- **Threat intel and phishing:** IOC lookups with VirusTotal, phishing and email header analysis
+- **Scripting:** Python, PowerShell basics
 - **Tools:** KC7, Airtable (IOC and case tracking), Burp Suite, Obsidian, GitHub
+- **Physical security operations:** CCTV monitoring, access control and visitor management, dispatch, incident reporting
 
 ## Education and certifications
 
@@ -42,4 +45,6 @@ Notes I keep and update as I learn:
 - **Associate in Arts, Social Sciences** · Sacramento City College · May 2014
 - **ISC2 Certified in Cybersecurity (CC)**
 - **Google IT Support Professional Certificate**
+- **Thinkful Technical Project Management Certificate**
 - **KC7 Cyber Security Analyst I** · completed Oct 2026
+- **KC7 Cyber Security Analyst II** · in progress
