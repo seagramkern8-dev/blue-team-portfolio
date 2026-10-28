@@ -16,7 +16,7 @@
 | Field             | Entry |
 | :---------------- | :---- |
 | Case name         | Whiskermania: An Intro to Network Concepts (story campaign name: Payment Shadow Campaign) |
-| Date investigated | Oct 25–27, 2026 |
+| Completed         | Oct 27, 2026 (KC7 badge date) |
 | Analyst           | Seagram Kern |
 | Severity          | High: three workstations compromised with active C2 beaconing over 4–5 days, and a financially motivated attacker targeting the donation system before the year's biggest fundraiser *(story)*. |
 | Status            | Open: nothing in the logs shows the C2 infrastructure was blocked, the hosts were isolated, or credentials were reset. The proxy allowed every C2 request. Morgan plans to tell the board and possibly law enforcement *(story)*, but that isn't remediation. |

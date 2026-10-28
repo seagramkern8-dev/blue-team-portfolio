@@ -16,7 +16,7 @@
 | Field             | Entry                                                                                                                                                                                                                       |
 | :---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Case name         | A Rap Beef: An Intro to Security Investigations                                                                                                                                                                             |
-| Date investigated | Sep 20, 2026                                                                                                                                                                                                                |
+| Completed         | Sep 20, 2026 (KC7 badge date) |
 | Analyst           | Seagram Kern                                                                                                                                                                                                                |
 | Severity          | High: the lead rapper's email account was compromised and his Drafts folder was stolen. 9 other phishing recipients have not been checked yet.                                                                              |
 | Status            | Open: nothing in the logs shows Dwake's password was reset, his sessions were ended, or the attacker's IP and domain were blocked. The truce between the artists is a story ending, not a remediation.                     |
