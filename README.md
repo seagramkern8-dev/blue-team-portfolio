@@ -25,6 +25,7 @@ Each report follows the same structure: TL;DR, timeline, evidence and key KQL qu
 Notes I keep and update as I learn:
 
 - [KQL cheat sheet](Reference/KQL.md)
+- [Linux command line cheat sheet](Reference/Linux-Cheat-Sheet.md)
 - [Ports, protocols and network basics](Reference/Ports-Protocols.md)
 - [MITRE ATT&CK techniques I've mapped](Reference/MITRE-ATTACK.md)
 - [Incident response process](Reference/IR-Process.md)
