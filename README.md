@@ -37,6 +37,7 @@ Notes I keep and update as I learn:
 - **Frameworks:** Cyber Kill Chain, MITRE ATT&CK, NIST incident response
 - **Threat intel and phishing:** IOC lookups with VirusTotal, phishing and email header analysis
 - **Scripting:** Python, PowerShell basics
+- **Linux command line:** Ubuntu Server VM, Roppers Academy
 - **Tools:** KC7, Airtable (IOC and case tracking), Burp Suite, Obsidian, GitHub
 - **Physical security operations:** CCTV monitoring, access control and visitor management, dispatch, incident reporting
 
