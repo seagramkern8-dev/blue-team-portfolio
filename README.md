@@ -29,6 +29,7 @@ Notes I keep and update as I learn:
 - [Ports, protocols and network basics](Reference/Ports-Protocols.md)
 - [MITRE ATT&CK techniques I've mapped](Reference/MITRE-ATTACK.md)
 - [Incident response process](Reference/IR-Process.md)
+- [Threat actor reference: categories and groups to know](Reference/Threat-Actors.md)
 
 ## Skills and tools
 
